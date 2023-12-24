@@ -143,3 +143,9 @@ di_count= 0, bf1_start=0, bf1_sp_en=0, bf1_count= 0, bf1_end=0, bf2_start=0, bf2
 di_count=31, bf1_start=1, bf1_sp_en=0, bf1_count= 0, bf1_end=0, bf2_start=0, bf2_sp_en=0, bf2_count= 0, bf2_end=0
 di_count= 0, bf1_start=0, bf1_sp_en=0, bf1_count= 0, bf1_end=0, bf2_start=0, bf2_sp_en=0, bf2_count= 0, bf2_end=0
 di_count= 0, bf1_start=0, bf1_sp_en=0, bf1_count= 0, bf1_end=0, bf2_start=0, bf2_sp_en=0, bf2_count= 0, bf2_end=0
+di_count=32, bf1_start=0, bf1_sp_en=1, bf1_count= 0, bf1_end=0, bf2_start=0, bf2_sp_en=0, bf2_count= 0, bf2_end=0
+di_count= 0, bf1_start=0, bf1_sp_en=0, bf1_count= 0, bf1_end=0, bf2_start=0, bf2_sp_en=0, bf2_count= 0, bf2_end=0
+di_count= 0, bf1_start=0, bf1_sp_en=0, bf1_count= 0, bf1_end=0, bf2_start=0, bf2_sp_en=0, bf2_count= 0, bf2_end=0
+di_count=33, bf1_start=0, bf1_sp_en=1, bf1_count= 1, bf1_end=0, bf2_start=0, bf2_sp_en=0, bf2_count= 0, bf2_end=0
+di_count= 0, bf1_start=0, bf1_sp_en=0, bf1_count= 0, bf1_end=0, bf2_start=0, bf2_sp_en=0, bf2_count= 0, bf2_end=0
+di_count= 0, bf1_start=0, bf1_sp_en=0, bf1_count= 0, bf1_end=0, bf2_start=0, bf2_sp_en=0, bf2_count= 0, bf2_end=0

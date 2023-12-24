@@ -3,12 +3,11 @@
 //----------------------------------------------------------------------
 `timescale	1ns/1ns
 module TB #(
-	parameter	N = 1024
+	parameter N = 1024
 );
 
-localparam		NN = log2(N);	//	Count Bit Width of FFT Point
+localparam NN=log2(N);
 
-//	log2 constant function
 function integer log2;
 	input integer x;
 	integer value;
@@ -19,18 +18,17 @@ function integer log2;
 	end
 endfunction
 
-//	Internal Regs and Nets
-reg			clock;
-reg			reset;
-reg			di_en;
-reg	[13:0]	di_re;
-reg	[13:0]	di_im;
+reg 		clock;
+reg 		reset;
+reg 		di_en;
+reg [15:0]	di_re;
+reg [15:0]	di_im;
 wire		do_en;
-wire[13:0]	do_re;
-wire[13:0]	do_im;
+wire[15:0]	do_re;
+wire[15:0]	do_im;
 
-reg	[13:0]	imem[0:2*N-1];
-reg	[13:0]	omem[0:2*N-1];
+reg [15:0]	imem[0:2*N-1];
+reg [15:0]	omem[0:2*N-1];
 
 //----------------------------------------------------------------------
 //	Clock and Reset
@@ -41,9 +39,9 @@ always begin
 end
 
 initial begin
-	reset = 0; #20;
-	reset = 1; #100000;
-	// reset = 0;
+	reset = 1; #20;
+	reset = 0; #100;
+	reset = 1;
 end
 
 //----------------------------------------------------------------------
@@ -52,13 +50,13 @@ end
 
 //	Input Control Initialize
 initial begin
-	wait (reset == 1);
+	wait (reset == 0);
 	di_en = 0;
 end
 
 //	Output Data Capture
 initial begin : OCAP
-	integer		n;
+	integer 	n;
 	forever begin
 		n = 0;
 		while (do_en !== 1) @(negedge clock);
@@ -82,7 +80,7 @@ end
 endtask
 
 task GenerateInputWave;
-	integer	n;
+	integer n;
 begin
 	di_en <= 1;
 	for (n = 0; n < N; n = n + 1) begin
@@ -104,7 +102,7 @@ begin
 	m = 0;
 	for (n = 0; n < N; n = n + 1) begin
 		for (i = 0; i < NN; i = i + 1) m[NN-1-i] = n[i];
-		$fdisplay(fp, "%d  %d  // %d", omem[2*m], omem[2*m+1], n[NN-1:0]);
+		$fdisplay(fp, "%b  %b  // %d", omem[2*m], omem[2*m+1], n[NN-1:0]);
 	end
 	$fclose(fp);
 end
@@ -131,8 +129,8 @@ FFT FFT (
 //	Test Stimuli
 //----------------------------------------------------------------------
 initial begin : STIM
+	wait (reset == 0);
 	wait (reset == 1);
-	// wait (reset == 0);
 	repeat(10) @(posedge clock);
 
 	fork
@@ -145,11 +143,11 @@ initial begin : STIM
 		end
 		begin
 			wait (do_en == 1);
-			repeat(N) @(posedge clock);
+			repeat(64) @(posedge clock);
 			SaveOutputData("output4.txt");
 			@(negedge clock);
-			// wait (do_en == 1);
-			// repeat(N) @(posedge clock);
+			wait (do_en == 1);
+			// repeat(64) @(posedge clock);
 			// SaveOutputData("output5.txt");
 		end
 	join
@@ -158,7 +156,7 @@ initial begin : STIM
 	$finish;
 end
 initial begin : TIMEOUT
-	repeat(5000) #20;	//  1000 Clock Cycle Time
+	repeat(10000) #20;	//  1000 Clock Cycle Time
 	$display("[FAILED] Simulation timed out.");
 	$finish;
 end
