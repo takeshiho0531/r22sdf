@@ -101,8 +101,8 @@ reg             mu_do_en;   //  Multiplication Output Data Enable
 //----------------------------------------------------------------------
 //  1st Butterfly
 //----------------------------------------------------------------------
-always @(posedge clock or posedge reset) begin
-    if (reset) begin
+always @(posedge clock or negedge reset) begin
+    if (!reset) begin
         di_count <= {LOG_N{1'b0}};
     end else begin
         di_count <= di_en ? (di_count + 1'b1) : {LOG_N{1'b0}};
@@ -140,9 +140,9 @@ assign  db1_di_im = bf1_bf ? bf1_y1_im : di_im;
 assign  bf1_sp_re = bf1_bf ? bf1_y0_re : bf1_mj ?  db1_do_im : db1_do_re;
 assign  bf1_sp_im = bf1_bf ? bf1_y0_im : bf1_mj ? -db1_do_re : db1_do_im;
 
-always @(posedge clock or posedge reset) begin
-    if (reset) begin
-        $display("reset");
+always @(posedge clock or negedge reset) begin
+    if (!reset) begin
+        // $display("reset");
         bf1_sp_en <= 1'b0;
         bf1_count <= {LOG_N{1'b0}};
     end else begin
@@ -198,9 +198,9 @@ assign  db2_di_im = bf2_bf ? bf2_y1_im : bf1_do_im;
 assign  bf2_sp_re = bf2_bf ? bf2_y0_re : db2_do_re;
 assign  bf2_sp_im = bf2_bf ? bf2_y0_im : db2_do_im;
 
-always @(posedge clock or posedge reset) begin
-    if (reset) begin
-        $display("reset");
+always @(posedge clock or negedge reset) begin
+    if (!reset) begin
+        // $display("reset");
         bf2_sp_en <= 1'b0;
         bf2_count <= {LOG_N{1'b0}};
     end else begin
@@ -219,9 +219,9 @@ always @(posedge clock) begin
     bf2_do_im <= bf2_sp_im;
 end
 
-always @(posedge clock or posedge reset) begin
-    if (reset) begin
-        $display("reset");
+always @(posedge clock or negedge reset) begin
+    if (!reset) begin
+        // $display("reset");
         bf2_do_en <= 1'b0;
     end else begin
         bf2_do_en <= bf2_sp_en;
@@ -265,9 +265,9 @@ always @(posedge clock) begin
     mu_do_im <= mu_en ? mu_m_im : bf2_do_im;
 end
 
-always @(posedge clock or posedge reset) begin
-    if (reset) begin
-        $display("reset");
+always @(posedge clock or negedge reset) begin
+    if (!reset) begin
+        // $display("reset");
         mu_do_en <= 1'b0;
     end else begin
         mu_do_en <= bf2_do_en;

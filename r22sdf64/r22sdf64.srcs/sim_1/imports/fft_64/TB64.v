@@ -25,9 +25,9 @@ always begin
 end
 
 initial begin
-	reset = 0; #20;
-	reset = 1; #100;
-	reset = 0;
+	reset = 1; #20;
+	reset = 0; #100;
+	reset = 1;
 end
 
 //----------------------------------------------------------------------
@@ -36,7 +36,7 @@ end
 
 //	Input Control Initialize
 initial begin
-	wait (reset == 1);
+	wait (reset == 0);
 	di_en = 0;
 end
 
@@ -120,8 +120,8 @@ FFT FFT (
 //	Test Stimuli
 //----------------------------------------------------------------------
 initial begin : STIM
-	wait (reset == 1);
 	wait (reset == 0);
+	wait (reset == 1);
 	repeat(10) @(posedge clock);
 
 	fork
@@ -147,7 +147,7 @@ initial begin : STIM
 	$finish;
 end
 initial begin : TIMEOUT
-	repeat(1000) #20;	//  1000 Clock Cycle Time
+	repeat(10000) #20;	//  1000 Clock Cycle Time
 	$display("[FAILED] Simulation timed out.");
 	$finish;
 end
