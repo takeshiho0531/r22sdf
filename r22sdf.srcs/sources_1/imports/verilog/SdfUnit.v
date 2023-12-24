@@ -281,8 +281,11 @@ assign  do_im = (LOG_M == 2) ? bf2_do_im : mu_do_im;
 
 always @(posedge clock) begin
     // $display("di_count=%d, bf1_start=%d, bf1_sp_en=%d, bf1_count=%d, bf1_end=%d, bf2_start=%d, bf2_sp_en=%d, bf2_count=%d, bf2_end=%d", di_count, bf1_start, bf1_sp_en, bf1_count, bf1_end, bf2_start, bf2_sp_en, bf2_count, bf2_end);
-    if (bf1_x0_re>=0) begin
-        $display("bf1_x0_re=%d, bf1_x0_im=%d, bf1_x1_re=%d, bf1_x1_im=%d, bf1_y0_re=%d, bf1_y0_im=%d, bf1_y1_re=%d, bf1_y1_im=%d", bf1_x0_re, bf1_x0_im, bf1_x1_re, bf1_x1_im, bf1_y0_re, bf1_y0_im, bf1_y1_re, bf1_y1_im);
+    // if (bf1_x0_re>=0) begin
+    //     $display("bf1_x0_re=%d, bf1_x0_im=%d, bf1_x1_re=%d, bf1_x1_im=%d, bf1_y0_re=%d, bf1_y0_im=%d, bf1_y1_re=%d, bf1_y1_im=%d", bf1_x0_re, bf1_x0_im, bf1_x1_re, bf1_x1_im, bf1_y0_re, bf1_y0_im, bf1_y1_re, bf1_y1_im);
+    // end
+    if (db1_di_re>=0 | db1_di_re<0 | db1_do_re>=0 | db1_do_re<0) begin
+        $display("db1_di_re=%d, db1_di_im=%d, db1_do_re=%d, db1_do_im=%d", db1_di_re, db1_di_im, db1_do_re, db1_do_im);
     end
     // if (bf2_x0_re>=0) begin
     //     $display("bf2_x0_re=%d, bf2_x0_im=%d, bf2_x1_re=%d, bf2_x1_im=%d, bf2_y0_re=%d, bf2_y0_im=%d, bf2_y1_re=%d, bf2_y1_im=%d", bf2_x0_re, bf2_x0_im, bf2_x1_re, bf2_x1_im, bf2_y0_re, bf2_y0_im, bf2_y1_re, bf2_y1_im);
