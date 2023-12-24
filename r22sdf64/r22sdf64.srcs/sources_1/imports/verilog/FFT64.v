@@ -3,7 +3,7 @@
 //----------------------------------------------------------------------
 `timescale	1ns/1ns
 module FFT #(
-    parameter   WIDTH = 14
+    parameter   WIDTH = 16
 )(
     input               clock,  //  Master Clock
     input               reset,  //  Active High Asynchronous Reset

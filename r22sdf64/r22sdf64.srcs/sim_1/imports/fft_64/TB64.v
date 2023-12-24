@@ -7,16 +7,14 @@ module TB;
 reg 		clock;
 reg 		reset;
 reg 		di_en;
-reg [13:0]	di_re;
-reg [13:0]	di_im;
+reg [15:0]	di_re;
+reg [15:0]	di_im;
 wire		do_en;
-wire[13:0]	do_re;
-wire[13:0]	do_im;
+wire[15:0]	do_re;
+wire[15:0]	do_im;
 
-reg [13:0]	imem[0:127];
-reg [13:0]	omem[0:127];
-
-reg [31:0] clk_counter; // for debugging
+reg [15:0]	imem[0:127];
+reg [15:0]	omem[0:127];
 
 //----------------------------------------------------------------------
 //	Clock and Reset
@@ -28,7 +26,7 @@ end
 
 initial begin
 	reset = 0; #20;
-	reset = 1; #1215752192;
+	reset = 1; #100;
 	reset = 0;
 end
 
@@ -57,25 +55,13 @@ initial begin : OCAP
 	end
 end
 
-always @(posedge clock or negedge reset) begin
-	if(!reset) begin
-		clk_counter <= 0;
-	end
-	else begin
-		clk_counter <= clk_counter +1;
-		if (clk_counter%71==0) begin
-			$display("clk_counter=%d, omem", clk_counter);
-		end
-	end
-end
-
 //----------------------------------------------------------------------
 //	Tasks
 //----------------------------------------------------------------------
 task LoadInputData;
 	input[80*8:1]	filename;
 begin
-	$readmemb(filename, imem);
+	$readmemh(filename, imem);
 end
 endtask
 
@@ -135,7 +121,7 @@ FFT FFT (
 //----------------------------------------------------------------------
 initial begin : STIM
 	wait (reset == 1);
-	// wait (reset == 0);
+	wait (reset == 0);
 	repeat(10) @(posedge clock);
 
 	fork
@@ -143,8 +129,8 @@ initial begin : STIM
 			LoadInputData("input4.txt");
 			GenerateInputWave;
 			@(posedge clock);
-			// LoadInputData("input5.txt");
-			// GenerateInputWave;
+			LoadInputData("input5.txt");
+			GenerateInputWave;
 		end
 		begin
 			wait (do_en == 1);
@@ -152,8 +138,8 @@ initial begin : STIM
 			SaveOutputData("output4.txt");
 			@(negedge clock);
 			wait (do_en == 1);
-			// repeat(64) @(posedge clock);
-			// SaveOutputData("output5.txt");
+			repeat(64) @(posedge clock);
+			SaveOutputData("output5.txt");
 		end
 	join
 
@@ -161,7 +147,7 @@ initial begin : STIM
 	$finish;
 end
 initial begin : TIMEOUT
-	repeat(1215752192) #20;	//  1000 Clock Cycle Time
+	repeat(1000) #20;	//  1000 Clock Cycle Time
 	$display("[FAILED] Simulation timed out.");
 	$finish;
 end

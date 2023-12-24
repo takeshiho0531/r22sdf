@@ -3,7 +3,7 @@
 //----------------------------------------------------------------------
 `timescale	1ns/1ns
 module Butterfly #(
-    parameter   WIDTH = 14,
+    parameter   WIDTH = 16,
     parameter   RH = 0  //  Round Half Up
 )(
     input   signed  [WIDTH-1:0] x0_re,  //  Input Data #0 (Real)

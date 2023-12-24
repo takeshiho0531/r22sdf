@@ -3,7 +3,7 @@
 //----------------------------------------------------------------------
 `timescale	1ns/1ns
 module Multiply #(
-    parameter   WIDTH = 14
+    parameter   WIDTH = 16
 )(
     input   signed  [WIDTH-1:0] a_re,
     input   signed  [WIDTH-1:0] a_im,
