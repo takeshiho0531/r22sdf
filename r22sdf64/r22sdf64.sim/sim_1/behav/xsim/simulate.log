@@ -170,3 +170,25 @@ bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf
 bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
 bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
 bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    1, bf2_x0_im=65535, bf2_x1_re=    0, bf2_x1_im=65535, bf2_y0_re=    1, bf2_y0_im=65535, bf2_y1_re=    1, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=65534, bf2_x1_re=    0, bf2_x1_im=65535, bf2_y0_re=    0, bf2_y0_im=65535, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=65535, bf2_x1_re=    0, bf2_x1_im=65535, bf2_y0_re=    0, bf2_y0_im=65535, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=65535, bf2_x1_re=    0, bf2_x1_im=65535, bf2_y0_re=    0, bf2_y0_im=65535, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=65535, bf2_x1_re=    0, bf2_x1_im=65535, bf2_y0_re=    0, bf2_y0_im=65535, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=32764, bf2_x0_im=    0, bf2_x1_re=32770, bf2_x1_im=    0, bf2_y0_re=65535, bf2_y0_im=    0, bf2_y1_re=32765, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=12538, bf2_x0_im=30270, bf2_x1_re=52998, bf2_x1_im=35266, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=12538, bf2_y1_im=30270
+bf2_bf=1, bf2_x0_re=42367, bf2_x0_im=23168, bf2_x1_re=23168, bf2_x1_im=42368, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=42368, bf2_y1_im=23168
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=35266, bf2_x0_im=52998, bf2_x1_re=30270, bf2_x1_im=12539, bf2_y0_re=    0, bf2_y0_im=    1, bf2_y1_re=35266, bf2_y1_im=52998
+bf2_bf=1, bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=65535, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=65535, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    1, bf2_y0_re=    0, bf2_y0_im=    1, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=32764, bf2_x0_im=65535, bf2_x1_re=32765, bf2_x1_im=65535, bf2_y0_re=32765, bf2_y0_im=65535, bf2_y1_re=    0, bf2_y1_im=    0
+bf2_bf=1, bf2_x0_re=    1, bf2_x0_im=    0, bf2_x1_re=    1, bf2_x1_im=    0, bf2_y0_re=    1, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+$finish called at time : 4510 ns : File "/home/kawada/r22sdf/r22sdf64/r22sdf64.srcs/sim_1/imports/fft_64/TB64.v" Line 147

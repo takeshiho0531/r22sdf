@@ -280,10 +280,14 @@ assign  do_re = (LOG_M == 2) ? bf2_do_re : mu_do_re;
 assign  do_im = (LOG_M == 2) ? bf2_do_im : mu_do_im;
 
 always @(posedge clock) begin
+    // if (bf2_bf) begin
+    //     $display("di_count=%d, bf1_start=%d, bf1_sp_en=%d, bf1_count=%d, bf1_end=%d, bf2_start=%d, bf2_sp_en=%d, bf2_count=%d, bf2_end=%d", di_count, bf1_start, bf1_sp_en, bf1_count, bf1_end, bf2_start, bf2_sp_en, bf2_count, bf2_end);
+    // end
     // $display("di_count=%d, bf1_start=%d, bf1_sp_en=%d, bf1_count=%d, bf1_end=%d, bf2_start=%d, bf2_sp_en=%d, bf2_count=%d, bf2_end=%d", di_count, bf1_start, bf1_sp_en, bf1_count, bf1_end, bf2_start, bf2_sp_en, bf2_count, bf2_end);
-    if (bf2_x0_re>=0 | bf2_x0_re<0) begin
-        $display("bf2_bf=%d, bf2_x0_re=%d, bf2_x0_im=%d, bf2_x1_re=%d, bf2_x1_im=%d, bf2_y0_re=%d, bf2_y0_im=%d, bf2_y1_re=%d, bf2_y1_im=%d", bf2_bf, bf2_x0_re, bf2_x0_im, bf2_x1_re, bf2_x1_im, bf2_y0_re, bf2_y0_im, bf2_y1_re, bf2_y1_im);
-    end
+    $display("LOG_M=%d, di_count=%d, di_count=%b, bf1_bf=%d, bf2_bf=%d, bf1_count=%b, bf1_count=%d", LOG_M, di_count, di_count, bf1_bf, bf2_bf, bf1_count, bf1_count);
+    // if (bf2_x0_re>=0 | bf2_x0_re<0) begin
+    //     $display("bf2_bf=%d, bf2_x0_re=%d, bf2_x0_im=%d, bf2_x1_re=%d, bf2_x1_im=%d, bf2_y0_re=%d, bf2_y0_im=%d, bf2_y1_re=%d, bf2_y1_im=%d", bf2_bf, bf2_x0_re, bf2_x0_im, bf2_x1_re, bf2_x1_im, bf2_y0_re, bf2_y0_im, bf2_y1_re, bf2_y1_im);
+    // end
 end
 
 endmodule
