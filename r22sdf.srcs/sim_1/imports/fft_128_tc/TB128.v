@@ -21,14 +21,14 @@ endfunction
 reg 		clock;
 reg 		reset;
 reg 		di_en;
-reg [15:0]	di_re;
-reg [15:0]	di_im;
+reg [13:0]	di_re;
+reg [13:0]	di_im;
 wire		do_en;
-wire[15:0]	do_re;
-wire[15:0]	do_im;
+wire[13:0]	do_re;
+wire[13:0]	do_im;
 
-reg [15:0]	imem[0:2*N-1];
-reg [15:0]	omem[0:2*N-1];
+reg [13:0]	imem[0:2*N-1];
+reg [13:0]	omem[0:2*N-1];
 
 //----------------------------------------------------------------------
 //	Clock and Reset
