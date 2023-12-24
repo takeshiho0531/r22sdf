@@ -1,428 +1,984 @@
 Time resolution is 1 ps
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
-bf2_x0_re=    0, bf2_x0_im=    0, bf2_x1_re=    0, bf2_x1_im=    0, bf2_y0_re=    0, bf2_y0_im=    0, bf2_y1_re=    0, bf2_y1_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8191, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8191, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re= 8191, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re= 8190, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re= 8189, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re= 8187, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8186, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8184, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8181, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8179, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8176, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    x, db2_do_im=    x
+db2_di_re= 8173, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8169, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8165, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8161, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8157, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8152, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8147, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8141, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8136, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8130, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8123, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8117, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8110, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8103, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8095, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8087, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8079, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8071, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8062, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8053, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8043, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8034, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8024, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8014, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 8003, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7992, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7981, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7970, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7958, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7946, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7933, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7921, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7908, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7894, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7881, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7867, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7853, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7838, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7824, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7809, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7793, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7778, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7762, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7746, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7729, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7712, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7695, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7678, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7660, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7642, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7624, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7606, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7587, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7568, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7548, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re=    0, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0
+db2_di_re= 7529, db2_di_im=    0, db2_do_re=    0, db2_do_im=    0

@@ -287,8 +287,11 @@ always @(posedge clock) begin
     // if (db1_di_re>=0 | db1_di_re<0 | db1_do_re>=0 | db1_do_re<0) begin
     //     $display("db1_di_re=%d, db1_di_im=%d, db1_do_re=%d, db1_do_im=%d", db1_di_re, db1_di_im, db1_do_re, db1_do_im);
     // end
-    if (bf2_x0_re>=0 | bf2_x0_re<0) begin
-        $display("bf2_x0_re=%d, bf2_x0_im=%d, bf2_x1_re=%d, bf2_x1_im=%d, bf2_y0_re=%d, bf2_y0_im=%d, bf2_y1_re=%d, bf2_y1_im=%d", bf2_x0_re, bf2_x0_im, bf2_x1_re, bf2_x1_im, bf2_y0_re, bf2_y0_im, bf2_y1_re, bf2_y1_im);
+    // if (bf2_x0_re>=0 | bf2_x0_re<0) begin
+    //     $display("bf2_x0_re=%d, bf2_x0_im=%d, bf2_x1_re=%d, bf2_x1_im=%d, bf2_y0_re=%d, bf2_y0_im=%d, bf2_y1_re=%d, bf2_y1_im=%d", bf2_x0_re, bf2_x0_im, bf2_x1_re, bf2_x1_im, bf2_y0_re, bf2_y0_im, bf2_y1_re, bf2_y1_im);
+    // end
+    if (db2_di_re>=0 | db2_di_re<0 | db2_do_re>=0 | db2_do_re<0) begin
+        $display("db2_di_re=%d, db2_di_im=%d, db2_do_re=%d, db2_do_im=%d", db2_di_re, db2_di_im, db2_do_re, db2_do_im);
     end
 end
 
