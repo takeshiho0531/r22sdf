@@ -279,4 +279,8 @@ assign  do_en = (LOG_M == 2) ? bf2_do_en : mu_do_en;
 assign  do_re = (LOG_M == 2) ? bf2_do_re : mu_do_re;
 assign  do_im = (LOG_M == 2) ? bf2_do_im : mu_do_im;
 
+always @(posedge clock) begin
+    $display("di_count=%d, bf1_start=%d, bf1_sp_en=%d, bf1_count=%d, bf1_end=%d, bf2_start=%d, bf2_sp_en=%d, bf2_count=%d, bf2_end=%d", di_count, bf1_start, bf1_sp_en, bf1_count, bf1_end, bf2_start, bf2_sp_en, bf2_count, bf2_end);
+end
+
 endmodule
