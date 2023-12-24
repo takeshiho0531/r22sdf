@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../r22sdf64.srcs/sources_1/imports/verilog/Butterfly.v" \
+"../../../../r22sdf64.srcs/sources_1/imports/verilog/DelayBuffer.v" \
+"../../../../r22sdf64.srcs/sources_1/imports/verilog/FFT64.v" \
+"../../../../r22sdf64.srcs/sources_1/imports/verilog/Multiply.v" \
+"../../../../r22sdf64.srcs/sources_1/imports/verilog/SdfUnit.v" \
+"../../../../r22sdf64.srcs/sources_1/imports/verilog/Twiddle64.v" \
+"../../../../r22sdf64.srcs/sim_1/imports/fft_64/TB64.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
