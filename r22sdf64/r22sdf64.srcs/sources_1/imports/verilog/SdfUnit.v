@@ -142,6 +142,7 @@ assign  bf1_sp_im = bf1_bf ? bf1_y0_im : bf1_mj ? -db1_do_re : db1_do_im;
 
 always @(posedge clock or posedge reset) begin
     if (reset) begin
+        $display("reset");
         bf1_sp_en <= 1'b0;
         bf1_count <= {LOG_N{1'b0}};
     end else begin
@@ -199,6 +200,7 @@ assign  bf2_sp_im = bf2_bf ? bf2_y0_im : db2_do_im;
 
 always @(posedge clock or posedge reset) begin
     if (reset) begin
+        $display("reset");
         bf2_sp_en <= 1'b0;
         bf2_count <= {LOG_N{1'b0}};
     end else begin
@@ -219,6 +221,7 @@ end
 
 always @(posedge clock or posedge reset) begin
     if (reset) begin
+        $display("reset");
         bf2_do_en <= 1'b0;
     end else begin
         bf2_do_en <= bf2_sp_en;
@@ -264,6 +267,7 @@ end
 
 always @(posedge clock or posedge reset) begin
     if (reset) begin
+        $display("reset");
         mu_do_en <= 1'b0;
     end else begin
         mu_do_en <= bf2_do_en;
