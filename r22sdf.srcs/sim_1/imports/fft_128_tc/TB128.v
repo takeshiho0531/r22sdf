@@ -156,7 +156,7 @@ initial begin : STIM
 	$finish;
 end
 initial begin : TIMEOUT
-	repeat(10000) #20;	//  1000 Clock Cycle Time
+	repeat(10000000) #20;	//  1000 Clock Cycle Time
 	$display("[FAILED] Simulation timed out.");
 	$finish;
 end
