@@ -145,8 +145,8 @@ initial begin : STIM
 			wait (do_en == 1);
 			repeat(1024) @(posedge clock);
 			SaveOutputData("output4.txt");
-			@(negedge clock);
-			wait (do_en == 1);
+			// @(negedge clock);
+			// wait (do_en == 1);
 			// repeat(64) @(posedge clock);
 			// SaveOutputData("output5.txt");
 		end
@@ -156,7 +156,7 @@ initial begin : STIM
 	$finish;
 end
 initial begin : TIMEOUT
-	repeat(10000000) #20;	//  1000 Clock Cycle Time
+	repeat(10000) #20;	//  1000 Clock Cycle Time
 	$display("[FAILED] Simulation timed out.");
 	$finish;
 end
