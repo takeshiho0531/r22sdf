@@ -143,7 +143,7 @@ initial begin : STIM
 		end
 		begin
 			wait (do_en == 1);
-			repeat(64) @(posedge clock);
+			repeat(1024) @(posedge clock);
 			SaveOutputData("output4.txt");
 			@(negedge clock);
 			wait (do_en == 1);
