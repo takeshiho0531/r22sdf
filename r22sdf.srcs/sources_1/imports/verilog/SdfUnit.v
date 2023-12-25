@@ -284,7 +284,8 @@ always @(posedge clock) begin
     //     $display("di_count=%d, bf1_start=%d, bf1_sp_en=%d, bf1_count=%d, bf1_end=%d, bf2_start=%d, bf2_sp_en=%d, bf2_count=%d, bf2_end=%d", di_count, bf1_start, bf1_sp_en, bf1_count, bf1_end, bf2_start, bf2_sp_en, bf2_count, bf2_end);
     // end
     // $display("di_count=%d, bf1_start=%d, bf1_sp_en=%d, bf1_count=%d, bf1_end=%d, bf2_start=%d, bf2_sp_en=%d, bf2_count=%d, bf2_end=%d", di_count, bf1_start, bf1_sp_en, bf1_count, bf1_end, bf2_start, bf2_sp_en, bf2_count, bf2_end);
-    $display("LOG_M=%d, di_count=%d, di_count=%b, bf1_bf=%d, bf2_bf=%d, bf1_count=%b, bf1_count=%d", LOG_M, di_count, di_count, bf1_bf, bf2_bf, bf1_count, bf1_count);
+    // $display("LOG_M=%d, di_count=%d, di_count=%b, bf1_bf=%d, bf2_bf=%d, bf1_count=%b, bf1_count=%d", LOG_M, di_count, di_count, bf1_bf, bf2_bf, bf1_count, bf1_count);
+        $display("LOG_M=%d, di_count=%d, bf1_bf=%d, bf2_bf=%d, bf1_count=%d, tw_sel=%b, tw_num=%d, tw_addr=%d, mu_en=%b", LOG_M, di_count, bf1_bf, bf2_bf, bf1_count, tw_sel, tw_num, tw_addr, mu_en);
     // if (bf2_x0_re>=0 | bf2_x0_re<0) begin
     //     $display("bf2_bf=%d, bf2_x0_re=%d, bf2_x0_im=%d, bf2_x1_re=%d, bf2_x1_im=%d, bf2_y0_re=%d, bf2_y0_im=%d, bf2_y1_re=%d, bf2_y1_im=%d", bf2_bf, bf2_x0_re, bf2_x0_im, bf2_x1_re, bf2_x1_im, bf2_y0_re, bf2_y0_im, bf2_y1_re, bf2_y1_im);
     // end
