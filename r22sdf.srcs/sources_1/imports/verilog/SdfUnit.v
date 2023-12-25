@@ -286,7 +286,7 @@ always @(posedge clock) begin
     // $display("di_count=%d, bf1_start=%d, bf1_sp_en=%d, bf1_count=%d, bf1_end=%d, bf2_start=%d, bf2_sp_en=%d, bf2_count=%d, bf2_end=%d", di_count, bf1_start, bf1_sp_en, bf1_count, bf1_end, bf2_start, bf2_sp_en, bf2_count, bf2_end);
     // $display("LOG_M=%d, di_count=%d, di_count=%b, bf1_bf=%d, bf2_bf=%d, bf1_count=%b, bf1_count=%d", LOG_M, di_count, di_count, bf1_bf, bf2_bf, bf1_count, bf1_count);
     // $display("LOG_M=%d, di_count=%d, bf1_bf=%d, bf2_bf=%d, bf1_count=%d, tw_sel=%b, tw_num=%d, tw_addr=%d, mu_en=%b", LOG_M, di_count, bf1_bf, bf2_bf, bf1_count, tw_sel, tw_num, tw_addr, mu_en);
-    if (LOG_M==6) begin
+    if (LOG_M==4) begin
        $display("LOG_M=%d, mu_en=%b, tw_addr=%d, tw_re=%d, tw_im=%d, mu_a_re=%d, mu_a_im=%d", LOG_M, mu_en, tw_addr, tw_re, tw_im, mu_a_re, mu_a_im); 
     end
     // $display("LOG_M=%d, mu_en=%b, tw_addr=%d, tw_re=%d, tw_im=%d, mu_a_re=%d, mu_a_im=%d", LOG_M, mu_en, tw_addr, tw_re, tw_im, mu_a_re, mu_a_im);
