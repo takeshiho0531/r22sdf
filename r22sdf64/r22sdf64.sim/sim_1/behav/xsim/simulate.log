@@ -607,3 +607,71 @@ LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=1, bf1_count=61, tw_sel=01, tw_
 LOG_M=          2, di_count=54, bf1_bf=1, bf2_bf=1, bf1_count=52, tw_sel=01, tw_num= 0, tw_addr= 0, mu_en=0
 LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
 LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=1, bf1_count=62, tw_sel=01, tw_num= 4, tw_addr= 4, mu_en=0
+LOG_M=          2, di_count=55, bf1_bf=1, bf2_bf=0, bf1_count=53, tw_sel=11, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=1, bf1_count=63, tw_sel=01, tw_num= 8, tw_addr= 8, mu_en=1
+LOG_M=          2, di_count=56, bf1_bf=0, bf2_bf=1, bf1_count=54, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=1, bf1_count= 0, tw_sel=01, tw_num=12, tw_addr=12, mu_en=1
+LOG_M=          2, di_count=57, bf1_bf=0, bf2_bf=0, bf1_count=55, tw_sel=10, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=11, tw_num= 0, tw_addr= 0, mu_en=1
+LOG_M=          2, di_count=58, bf1_bf=1, bf2_bf=1, bf1_count=56, tw_sel=01, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=11, tw_num= 4, tw_addr=12, mu_en=0
+LOG_M=          2, di_count=59, bf1_bf=1, bf2_bf=0, bf1_count=57, tw_sel=11, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=11, tw_num= 8, tw_addr=24, mu_en=1
+LOG_M=          2, di_count=60, bf1_bf=0, bf2_bf=1, bf1_count=58, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=11, tw_num=12, tw_addr=36, mu_en=1
+LOG_M=          2, di_count=61, bf1_bf=0, bf2_bf=0, bf1_count=59, tw_sel=10, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=1
+LOG_M=          2, di_count=62, bf1_bf=1, bf2_bf=1, bf1_count=60, tw_sel=01, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count=63, bf1_bf=1, bf2_bf=0, bf1_count=61, tw_sel=11, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=1, bf1_count=62, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count=63, tw_sel=10, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=1, bf1_count= 0, tw_sel=01, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=11, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          6, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          4, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+LOG_M=          2, di_count= 0, bf1_bf=0, bf2_bf=0, bf1_count= 0, tw_sel=00, tw_num= 0, tw_addr= 0, mu_en=0
+$finish called at time : 4510 ns : File "/home/kawada/r22sdf/r22sdf64/r22sdf64.srcs/sim_1/imports/fft_64/TB64.v" Line 147

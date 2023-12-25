@@ -5,4 +5,28 @@ Using 8 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
 Completed static elaboration
-INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Butterfly
+Compiling module xil_defaultlib.DelayBuffer(DEPTH=512)
+Compiling module xil_defaultlib.DelayBuffer(DEPTH=256)
+Compiling module xil_defaultlib.Twiddle
+Compiling module xil_defaultlib.Multiply
+Compiling module xil_defaultlib.SdfUnit_default
+Compiling module xil_defaultlib.DelayBuffer(DEPTH=128)
+Compiling module xil_defaultlib.DelayBuffer(DEPTH=64)
+Compiling module xil_defaultlib.SdfUnit(M=256)
+Compiling module xil_defaultlib.DelayBuffer
+Compiling module xil_defaultlib.DelayBuffer(DEPTH=16)
+Compiling module xil_defaultlib.SdfUnit(M=64)
+Compiling module xil_defaultlib.DelayBuffer(DEPTH=8)
+Compiling module xil_defaultlib.DelayBuffer(DEPTH=4)
+Compiling module xil_defaultlib.SdfUnit(M=16)
+Compiling module xil_defaultlib.DelayBuffer(DEPTH=2)
+Compiling module xil_defaultlib.DelayBuffer(DEPTH=1)
+Compiling module xil_defaultlib.SdfUnit(M=4)
+Compiling module xil_defaultlib.FFT
+Compiling module xil_defaultlib.TB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TB_behav
