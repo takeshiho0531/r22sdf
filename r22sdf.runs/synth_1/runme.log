@@ -1,0 +1,515 @@
+
+*** Running vivado
+    with args -log FFT.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source FFT.tcl
+
+
+****** Vivado v2022.2 (64-bit)
+  **** SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+  **** IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source FFT.tcl -notrace
+create_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1684.039 ; gain = 87.961 ; free physical = 446992 ; free virtual = 993651
+Command: synth_design -top FFT -part xc7vx485tffg1157-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7vx485t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7vx485t'
+INFO: [Common 17-1540] The version limit for your license is '2022.11' and has expired for new software. A version limit expiration means that, although you may be able to continue to use the current version of tools or IP with this license, you will not be eligible for new releases.
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 4 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 800066
+INFO: [Synth 8-11241] undeclared symbol 'REGCCE', assumed default net type 'wire' [/HLS/Xilinx/Vivado/2022.2/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v:2170]
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 2086.562 ; gain = 376.707 ; free physical = 446496 ; free virtual = 993155
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1436.056; parent = 1263.637; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3080.395; parent = 2089.535; children = 990.859
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'FFT' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/FFT1024_32B.v:5]
+INFO: [Synth 8-6157] synthesizing module 'SdfUnit' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+	Parameter N bound to: 1024 - type: integer 
+	Parameter M bound to: 1024 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'Butterfly' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/Butterfly.v:5]
+	Parameter WIDTH bound to: 14 - type: integer 
+	Parameter RH bound to: 0 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'Butterfly' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/Butterfly.v:5]
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 512 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6157] synthesizing module 'Butterfly__parameterized0' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/Butterfly.v:5]
+	Parameter WIDTH bound to: 14 - type: integer 
+	Parameter RH bound to: 1 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'Butterfly__parameterized0' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/Butterfly.v:5]
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer__parameterized0' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 256 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer__parameterized0' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6157] synthesizing module 'Twiddle' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/Twiddle1024_32B.v:5]
+INFO: [Synth 8-6155] done synthesizing module 'Twiddle' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/Twiddle1024_32B.v:5]
+INFO: [Synth 8-6157] synthesizing module 'Multiply' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/Multiply.v:5]
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'Multiply' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/Multiply.v:5]
+INFO: [Synth 8-6155] done synthesizing module 'SdfUnit' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+INFO: [Synth 8-6157] synthesizing module 'SdfUnit__parameterized0' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+	Parameter N bound to: 1024 - type: integer 
+	Parameter M bound to: 256 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer__parameterized1' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 128 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer__parameterized1' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer__parameterized2' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 64 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer__parameterized2' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6155] done synthesizing module 'SdfUnit__parameterized0' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+INFO: [Synth 8-6157] synthesizing module 'SdfUnit__parameterized1' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+	Parameter N bound to: 1024 - type: integer 
+	Parameter M bound to: 64 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer__parameterized3' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 32 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer__parameterized3' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer__parameterized4' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 16 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer__parameterized4' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6155] done synthesizing module 'SdfUnit__parameterized1' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+INFO: [Synth 8-6157] synthesizing module 'SdfUnit__parameterized2' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+	Parameter N bound to: 1024 - type: integer 
+	Parameter M bound to: 16 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer__parameterized5' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 8 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer__parameterized5' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer__parameterized6' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 4 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer__parameterized6' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6155] done synthesizing module 'SdfUnit__parameterized2' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+INFO: [Synth 8-6157] synthesizing module 'SdfUnit__parameterized3' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+	Parameter N bound to: 1024 - type: integer 
+	Parameter M bound to: 4 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer__parameterized7' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 2 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer__parameterized7' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6157] synthesizing module 'DelayBuffer__parameterized8' [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+	Parameter DEPTH bound to: 1 - type: integer 
+	Parameter WIDTH bound to: 14 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'DelayBuffer__parameterized8' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/DelayBuffer.v:5]
+INFO: [Synth 8-6155] done synthesizing module 'SdfUnit__parameterized3' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:5]
+INFO: [Synth 8-6155] done synthesizing module 'FFT' (0#1) [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/FFT1024_32B.v:5]
+WARNING: [Synth 8-6014] Unused sequential element mu_do_re_reg was removed.  [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:264]
+WARNING: [Synth 8-6014] Unused sequential element mu_do_im_reg was removed.  [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:265]
+WARNING: [Synth 8-6014] Unused sequential element mu_do_en_reg was removed.  [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:271]
+WARNING: [Synth 8-6014] Unused sequential element mu_en_reg was removed.  [/home/kawada/r22sdf/r22sdf.srcs/sources_1/imports/verilog/SdfUnit.v:248]
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 2196.500 ; gain = 486.645 ; free physical = 446553 ; free virtual = 993214
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1436.056; parent = 1263.637; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3187.363; parent = 2196.504; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 2211.344 ; gain = 501.488 ; free physical = 446557 ; free virtual = 993218
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1436.056; parent = 1263.637; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3202.207; parent = 2211.348; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7vx485tffg1157-1
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7vx485tffg1157-1
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 2213.348 ; gain = 503.492 ; free physical = 446555 ; free virtual = 993215
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1436.056; parent = 1263.637; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3204.211; parent = 2213.352; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:16 ; elapsed = 00:00:12 . Memory (MB): peak = 2258.949 ; gain = 549.094 ; free physical = 446336 ; free virtual = 992997
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1598.791; parent = 1426.430; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3249.812; parent = 2258.953; children = 990.859
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input   32 Bit       Adders := 20    
+	   2 Input   15 Bit       Adders := 20    
+	   3 Input   15 Bit       Adders := 20    
+	   3 Input   14 Bit       Adders := 5     
+	   2 Input   14 Bit       Adders := 10    
+	   2 Input   10 Bit       Adders := 15    
++---Registers : 
+	               14 Bit    Registers := 2084  
+	               10 Bit    Registers := 15    
+	                1 Bit    Registers := 33    
++---ROMs : 
+	                    ROMs := 10    
++---Muxes : 
+	   2 Input   14 Bit        Muxes := 58    
+	   2 Input   10 Bit        Muxes := 15    
+	   2 Input    1 Bit        Muxes := 10    
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 2800 (col length:140)
+BRAMs: 2060 (col length: RAMB18 140 RAMB36 70)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-7080] Parallel synthesis criteria is not met
+DSP Report: Generating DSP MU/arbr, operation Mode is: A2*B2.
+DSP Report: register TW/ff_re_reg is absorbed into DSP MU/arbr.
+DSP Report: register bf2_do_re_reg is absorbed into DSP MU/arbr.
+DSP Report: operator MU/arbr is absorbed into DSP MU/arbr.
+DSP Report: Generating DSP MU/aibi, operation Mode is: A2*B2.
+DSP Report: register TW/ff_im_reg is absorbed into DSP MU/aibi.
+DSP Report: register bf2_do_im_reg is absorbed into DSP MU/aibi.
+DSP Report: operator MU/aibi is absorbed into DSP MU/aibi.
+DSP Report: Generating DSP MU/arbi, operation Mode is: A2*B2.
+DSP Report: register TW/ff_im_reg is absorbed into DSP MU/arbi.
+DSP Report: register bf2_do_re_reg is absorbed into DSP MU/arbi.
+DSP Report: operator MU/arbi is absorbed into DSP MU/arbi.
+DSP Report: Generating DSP MU/aibr, operation Mode is: A2*B2.
+DSP Report: register TW/ff_re_reg is absorbed into DSP MU/aibr.
+DSP Report: register bf2_do_im_reg is absorbed into DSP MU/aibr.
+DSP Report: operator MU/aibr is absorbed into DSP MU/aibr.
+DSP Report: Generating DSP MU/arbr, operation Mode is: A2*B2.
+DSP Report: register TW/ff_re_reg is absorbed into DSP MU/arbr.
+DSP Report: register bf2_do_re_reg is absorbed into DSP MU/arbr.
+DSP Report: operator MU/arbr is absorbed into DSP MU/arbr.
+DSP Report: Generating DSP MU/aibi, operation Mode is: A2*B2.
+DSP Report: register TW/ff_im_reg is absorbed into DSP MU/aibi.
+DSP Report: register bf2_do_im_reg is absorbed into DSP MU/aibi.
+DSP Report: operator MU/aibi is absorbed into DSP MU/aibi.
+DSP Report: Generating DSP MU/arbi, operation Mode is: A2*B2.
+DSP Report: register TW/ff_im_reg is absorbed into DSP MU/arbi.
+DSP Report: register bf2_do_re_reg is absorbed into DSP MU/arbi.
+DSP Report: operator MU/arbi is absorbed into DSP MU/arbi.
+DSP Report: Generating DSP MU/aibr, operation Mode is: A2*B2.
+DSP Report: register TW/ff_re_reg is absorbed into DSP MU/aibr.
+DSP Report: register bf2_do_im_reg is absorbed into DSP MU/aibr.
+DSP Report: operator MU/aibr is absorbed into DSP MU/aibr.
+DSP Report: Generating DSP MU/arbr, operation Mode is: A2*B2.
+DSP Report: register TW/ff_re_reg is absorbed into DSP MU/arbr.
+DSP Report: register bf2_do_re_reg is absorbed into DSP MU/arbr.
+DSP Report: operator MU/arbr is absorbed into DSP MU/arbr.
+DSP Report: Generating DSP MU/aibi, operation Mode is: A2*B2.
+DSP Report: register TW/ff_im_reg is absorbed into DSP MU/aibi.
+DSP Report: register bf2_do_im_reg is absorbed into DSP MU/aibi.
+DSP Report: operator MU/aibi is absorbed into DSP MU/aibi.
+DSP Report: Generating DSP MU/arbi, operation Mode is: A2*B2.
+DSP Report: register TW/ff_im_reg is absorbed into DSP MU/arbi.
+DSP Report: register bf2_do_re_reg is absorbed into DSP MU/arbi.
+DSP Report: operator MU/arbi is absorbed into DSP MU/arbi.
+DSP Report: Generating DSP MU/aibr, operation Mode is: A2*B2.
+DSP Report: register TW/ff_re_reg is absorbed into DSP MU/aibr.
+DSP Report: register bf2_do_im_reg is absorbed into DSP MU/aibr.
+DSP Report: operator MU/aibr is absorbed into DSP MU/aibr.
+DSP Report: Generating DSP MU/arbr, operation Mode is: A2*B2.
+DSP Report: register TW/ff_re_reg is absorbed into DSP MU/arbr.
+DSP Report: register bf2_do_re_reg is absorbed into DSP MU/arbr.
+DSP Report: operator MU/arbr is absorbed into DSP MU/arbr.
+DSP Report: Generating DSP MU/aibi, operation Mode is: A2*B2.
+DSP Report: register TW/ff_im_reg is absorbed into DSP MU/aibi.
+DSP Report: register bf2_do_im_reg is absorbed into DSP MU/aibi.
+DSP Report: operator MU/aibi is absorbed into DSP MU/aibi.
+DSP Report: Generating DSP MU/arbi, operation Mode is: A2*B2.
+DSP Report: register TW/ff_im_reg is absorbed into DSP MU/arbi.
+DSP Report: register bf2_do_re_reg is absorbed into DSP MU/arbi.
+DSP Report: operator MU/arbi is absorbed into DSP MU/arbi.
+DSP Report: Generating DSP MU/aibr, operation Mode is: A2*B2.
+DSP Report: register TW/ff_re_reg is absorbed into DSP MU/aibr.
+DSP Report: register bf2_do_im_reg is absorbed into DSP MU/aibr.
+DSP Report: operator MU/aibr is absorbed into DSP MU/aibr.
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:54 ; elapsed = 00:00:51 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446174 ; free virtual = 992849
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+ROM: Preliminary Mapping Report
++------------+------------+---------------+----------------+
+|Module Name | RTL Object | Depth x Width | Implemented As | 
++------------+------------+---------------+----------------+
+|SdfUnit     | TW/wn_re   | 1024x14       | LUT            | 
+|SdfUnit     | TW/wn_im   | 1024x14       | LUT            | 
+|SdfUnit     | TW/wn_re   | 1024x14       | LUT            | 
+|SdfUnit     | TW/wn_im   | 1024x14       | LUT            | 
+|SdfUnit     | TW/wn_re   | 1024x14       | LUT            | 
+|SdfUnit     | TW/wn_im   | 1024x14       | LUT            | 
+|SdfUnit     | TW/wn_re   | 1024x14       | LUT            | 
+|SdfUnit     | TW/wn_im   | 1024x14       | LUT            | 
++------------+------------+---------------+----------------+
+
+
+DSP: Preliminary Mapping Report (see note below. The ' indicates corresponding REG is set)
++------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|Module Name | DSP Mapping | A Size | B Size | C Size | D Size | P Size | AREG | BREG | CREG | DREG | ADREG | MREG | PREG | 
++------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A2*B2       | 14     | 14     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
++------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+
+Note: The table above is a preliminary report that shows the DSPs inferred at the current stage of the synthesis flow. Some DSP may be reimplemented as non DSP primitives later in the synthesis flow. Multiple instantiated DSPs are reported only once.
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+No constraint files found.
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:55 ; elapsed = 00:00:52 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446174 ; free virtual = 992850
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:57 ; elapsed = 00:00:55 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446187 ; free virtual = 992863
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:01:01 ; elapsed = 00:00:58 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446186 ; free virtual = 992861
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:01:01 ; elapsed = 00:00:59 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446186 ; free virtual = 992861
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:01:01 ; elapsed = 00:00:59 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446181 ; free virtual = 992856
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:01:01 ; elapsed = 00:00:59 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446187 ; free virtual = 992863
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:01:01 ; elapsed = 00:00:59 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446186 ; free virtual = 992861
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:01:01 ; elapsed = 00:00:59 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446186 ; free virtual = 992861
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+Static Shift Register Report:
++------------+-----------------------------+--------+-------+--------------+--------------------+-------------------+--------+---------+
+|Module Name | RTL Name                    | Length | Width | Reset Signal | Pull out first Reg | Pull out last Reg | SRL16E | SRLC32E | 
++------------+-----------------------------+--------+-------+--------------+--------------------+-------------------+--------+---------+
+|FFT         | SU1/DB1/buf_re_reg[511][13] | 512    | 14    | NO           | NO                 | YES               | 0      | 224     | 
+|FFT         | SU1/DB1/buf_im_reg[511][13] | 512    | 14    | NO           | NO                 | YES               | 0      | 224     | 
+|FFT         | SU1/DB2/buf_re_reg[255][13] | 256    | 14    | NO           | NO                 | YES               | 0      | 112     | 
+|FFT         | SU1/DB2/buf_im_reg[255][13] | 256    | 14    | NO           | NO                 | YES               | 0      | 112     | 
+|FFT         | SU2/DB1/buf_re_reg[127][13] | 128    | 14    | NO           | NO                 | YES               | 0      | 56      | 
+|FFT         | SU2/DB1/buf_im_reg[127][13] | 128    | 14    | NO           | NO                 | YES               | 0      | 56      | 
+|FFT         | SU2/DB2/buf_re_reg[63][13]  | 64     | 14    | NO           | NO                 | YES               | 0      | 28      | 
+|FFT         | SU2/DB2/buf_im_reg[63][13]  | 64     | 14    | NO           | NO                 | YES               | 0      | 28      | 
+|FFT         | SU3/DB1/buf_re_reg[31][13]  | 32     | 14    | NO           | NO                 | YES               | 0      | 14      | 
+|FFT         | SU3/DB1/buf_im_reg[31][13]  | 32     | 14    | NO           | NO                 | YES               | 0      | 14      | 
+|FFT         | SU3/DB2/buf_re_reg[15][13]  | 16     | 14    | NO           | NO                 | YES               | 14     | 0       | 
+|FFT         | SU3/DB2/buf_im_reg[15][13]  | 16     | 14    | NO           | NO                 | YES               | 14     | 0       | 
+|FFT         | SU4/DB1/buf_re_reg[7][13]   | 8      | 14    | NO           | NO                 | YES               | 14     | 0       | 
+|FFT         | SU4/DB1/buf_im_reg[7][13]   | 8      | 14    | NO           | NO                 | YES               | 14     | 0       | 
+|FFT         | SU4/DB2/buf_re_reg[3][13]   | 4      | 14    | NO           | NO                 | YES               | 14     | 0       | 
+|FFT         | SU4/DB2/buf_im_reg[3][13]   | 4      | 14    | NO           | NO                 | YES               | 14     | 0       | 
++------------+-----------------------------+--------+-------+--------------+--------------------+-------------------+--------+---------+
+
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+DSP Final Report (the ' indicates corresponding REG is set)
++------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|Module Name | DSP Mapping | A Size | B Size | C Size | D Size | P Size | AREG | BREG | CREG | DREG | ADREG | MREG | PREG | 
++------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
+|SdfUnit     | A'*B'       | 30     | 18     | -      | -      | 28     | 1    | 1    | -    | -    | -     | 0    | 0    | 
++------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+--------+------+
+|      |Cell    |Count |
++------+--------+------+
+|1     |BUFG    |     1|
+|2     |CARRY4  |   297|
+|3     |DSP48E1 |    16|
+|4     |LUT1    |    91|
+|5     |LUT2    |   714|
+|6     |LUT3    |   475|
+|7     |LUT4    |   350|
+|8     |LUT5    |   137|
+|9     |LUT6    |   720|
+|10    |MUXF7   |   258|
+|11    |MUXF8   |   123|
+|12    |SRL16E  |    84|
+|13    |SRLC32E |   868|
+|14    |FDCE    |   169|
+|15    |FDRE    |   714|
+|16    |IBUF    |    31|
+|17    |OBUF    |    29|
++------+--------+------+
+
+Report Instance Areas: 
++------+---------+-----------------------------+------+
+|      |Instance |Module                       |Cells |
++------+---------+-----------------------------+------+
+|1     |top      |                             |  5077|
+|2     |  SU1    |SdfUnit                      |  1957|
+|3     |    BF2  |Butterfly__parameterized0_11 |    88|
+|4     |    BF1  |Butterfly_10                 |    62|
+|5     |    DB1  |DelayBuffer                  |   596|
+|6     |    DB2  |DelayBuffer__parameterized0  |   310|
+|7     |    MU   |Multiply_12                  |   407|
+|8     |    TW   |Twiddle_13                   |   324|
+|9     |  SU2    |SdfUnit__parameterized0      |  1157|
+|10    |    BF2  |Butterfly__parameterized0_7  |    88|
+|11    |    BF1  |Butterfly_6                  |    62|
+|12    |    DB1  |DelayBuffer__parameterized1  |   226|
+|13    |    DB2  |DelayBuffer__parameterized2  |   142|
+|14    |    MU   |Multiply_8                   |   385|
+|15    |    TW   |Twiddle_9                    |    90|
+|16    |  SU3    |SdfUnit__parameterized1      |   761|
+|17    |    BF2  |Butterfly__parameterized0_3  |    88|
+|18    |    BF1  |Butterfly_2                  |    75|
+|19    |    DB1  |DelayBuffer__parameterized3  |   129|
+|20    |    DB2  |DelayBuffer__parameterized4  |   114|
+|21    |    MU   |Multiply_4                   |   124|
+|22    |    TW   |Twiddle_5                    |    63|
+|23    |  SU4    |SdfUnit__parameterized2      |   660|
+|24    |    BF2  |Butterfly__parameterized0_1  |    88|
+|25    |    BF1  |Butterfly_0                  |    75|
+|26    |    DB1  |DelayBuffer__parameterized5  |   129|
+|27    |    DB2  |DelayBuffer__parameterized6  |   114|
+|28    |    MU   |Multiply                     |    70|
+|29    |    TW   |Twiddle                      |    17|
+|30    |  SU5    |SdfUnit__parameterized3      |   481|
+|31    |    BF2  |Butterfly__parameterized0    |    88|
+|32    |    BF1  |Butterfly                    |    38|
+|33    |    DB1  |DelayBuffer__parameterized7  |   132|
+|34    |    DB2  |DelayBuffer__parameterized8  |    86|
++------+---------+-----------------------------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:01:01 ; elapsed = 00:00:59 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446186 ; free virtual = 992861
+Synthesis current peak Physical Memory [PSS] (MB): peak = 1936.429; parent = 1764.118; children = 172.419
+Synthesis current peak Virtual Memory [VSS] (MB): peak = 3592.859; parent = 2602.000; children = 990.859
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 5 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:01:01 ; elapsed = 00:00:59 . Memory (MB): peak = 2601.996 ; gain = 892.141 ; free physical = 446194 ; free virtual = 992870
+Synthesis Optimization Complete : Time (s): cpu = 00:01:01 ; elapsed = 00:00:59 . Memory (MB): peak = 2602.004 ; gain = 892.141 ; free physical = 446194 ; free virtual = 992870
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00.06 ; elapsed = 00:00:00.06 . Memory (MB): peak = 2602.004 ; gain = 0.000 ; free physical = 446291 ; free virtual = 992967
+INFO: [Netlist 29-17] Analyzing 694 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 2623.926 ; gain = 0.000 ; free physical = 446221 ; free virtual = 992897
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Synth Design complete, checksum: d697c522
+INFO: [Common 17-83] Releasing license: Synthesis
+54 Infos, 5 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:01:09 ; elapsed = 00:01:04 . Memory (MB): peak = 2623.926 ; gain = 939.887 ; free physical = 446432 ; free virtual = 993108
+INFO: [Common 17-1381] The checkpoint '/home/kawada/r22sdf/r22sdf.runs/synth_1/FFT.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file FFT_utilization_synth.rpt -pb FFT_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Sun Dec 31 01:15:04 2023...
