@@ -30,6 +30,8 @@ wire[13:0]	do_im;
 reg [13:0]	imem[0:2*N-1];
 reg [13:0]	omem[0:2*N-1];
 
+integer clock_counter;
+
 //----------------------------------------------------------------------
 //	Clock and Reset
 //----------------------------------------------------------------------
@@ -66,6 +68,16 @@ initial begin : OCAP
 			n = n + 1;
 			@(negedge clock);
 		end
+	end
+end
+
+always @(posedge clock or negedge reset) begin
+	if (!reset) begin
+		clock_counter <= 0;
+	end
+	else begin
+		$display("clock_counter=%d, di_re=%b, do_re=%b, do_im=%b", clock_counter, di_re, do_re, do_im);
+		clock_counter <= clock_counter + 1;
 	end
 end
 
